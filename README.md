@@ -102,10 +102,6 @@
 
 ---
 
-### 🐍 Fun Fact: Commit Snake
-<div align="center">
-  <img src="https://github.com/tinh2004t/tinh2004t/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
